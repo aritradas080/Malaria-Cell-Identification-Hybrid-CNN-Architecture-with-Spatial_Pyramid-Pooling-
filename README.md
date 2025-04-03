@@ -1,4 +1,4 @@
-# Malaria Cell Image Classification with Hybrid CNN-Transformer Model (Spatial Pyramid Pooling Approach)
+# Malaria Cell Image Classification with Hybrid CNN Model (Spatial Pyramid Pooling Approach)
 
 ## Overview
 This project presents a **hybrid CNN-Transformer model** for **Malaria cell image classification**, integrating **custom CNN architecture with EfficientNetB0** and enhanced by **CBAM Attention Mechanism, Residual Learning, and ASPP (Atrous Spatial Pyramid Pooling)**. The model achieves **high classification accuracy**, ensuring robust detection of malaria from cell images.
